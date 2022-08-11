@@ -1,3 +1,0 @@
-https://github.com/nickcube2/Udapeople_Automation_project_03
-
-http://udapeople-2eafd3f.s3-website-us-east-1.amazonaws.com
